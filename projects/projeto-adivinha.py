@@ -6,7 +6,6 @@ import random
 num = random.randint(1, 1000)
 
 print("UM NÚMERO ENTRE 1 E 1000 FOI SORTEADO, TENTE ACERTA-LO!")
-print(num)
 
 for i in range(1, 11):
     chute = str(input("Insira um número: "))
